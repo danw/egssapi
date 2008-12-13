@@ -1,2 +1,5 @@
 Generic Security Services Application Program Interface (GSSAPI) and
 Simple and Protected GSSAPI Negotiation Mechanism (SPNEGO) support.
+
+The base of this repository was downloaded from http://www.hem.za.org/
+as version 0.1.
